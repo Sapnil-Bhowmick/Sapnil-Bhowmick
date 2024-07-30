@@ -1,5 +1,5 @@
 
-<h1 align="center">Hola 👋, I'm Sapnil Bhowmik</h1>
+<h1 align="center">Hola 👋, I'm Sapnil </h1>
 <h3 align="center">A passionate frontend developer from India transitioning to a Full-Stack Developer</h3>
 <img align='right' alt='Coding' width:'400'  src='https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif'/>
 
