@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sapnil-bhowmick&label=Profile%20views&color=0e75b6&style=flat" alt="sapnil-bhowmick" /> </p> 
 
-- 👨‍💻 All of my projects are available at [https://sapnil-portfolio.netlify.app](https://sapnil-portfolio.netlify.app)
+<!-- - 👨‍💻 All of my projects are available at [https://sapnil-portfolio.netlify.app](https://sapnil-portfolio.netlify.app) -->
 
-- 💬 Ask me about **React , Javascript , HTML**
+- 💬 Ask me about **React Native, React, Javascript , HTML**
 
 - 📫 How to reach me **sapnilfrontend23@gmail.com**
 
