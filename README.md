@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sapnil-bhowmick&show_icons=true&locale=en" alt="sapnil-bhowmick" /></p>
 
 
+<h3 style="color : #FFD700">Fun Fact : I am an astrophysicist</h1>
+
+
+
